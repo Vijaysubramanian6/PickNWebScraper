@@ -1,4 +1,4 @@
-# Scraping along with Reviews
+# PickNWebScraper: Web Scraping
 
 This script scrapes Amazon product data and top reviews, offering insights into ratings, prices, and customer feedback.
 
